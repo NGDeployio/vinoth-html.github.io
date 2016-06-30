@@ -1,0 +1,10 @@
+{
+    "id": 207,
+    "name": "profile",
+    "accountToken": "acc3ae472c72a04e47d217227194408a35a421568ab",
+    "ngDeployUrl": "profile",
+    "version": "0.2.3",
+    "dist": ".",
+    "path": "/Users/milosbejda/test2",
+    "endpoint": "https://api.ngdeploy.com"
+}
